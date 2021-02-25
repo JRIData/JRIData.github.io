@@ -11708,7 +11708,7 @@ pre code {
   -o-border-radius: 160px;
   border-radius: 160px; }
 
-.circle-picture {
+/* .circle-picture {
   display: block;
   width: 160px;
   height: 160px;
@@ -11719,7 +11719,7 @@ pre code {
   -o-border-radius: 160px;
   border-radius: 160px;
   border-style: solid;
-  border-color: #424242; }
+  border-color: #424242; } */
 
 .personal-picture > img {
   width: 180px;
